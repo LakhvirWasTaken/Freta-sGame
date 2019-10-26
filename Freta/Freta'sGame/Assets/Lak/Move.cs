@@ -63,12 +63,6 @@ public class Move : MonoBehaviour
 
         Movimiento1();
 
-        if (Input.GetKeyDown(KeyCode.Alpha2))
-        {
-
-            player.SetActive(false);
-
-        }
     }
 
 
